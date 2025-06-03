@@ -13,4 +13,4 @@ A Python tool to scan websites for vulnerabilities like SQL Injection, Cross-Sit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sourourjaouadi/web-security-scanner00
+   git clone https://github.com/sourourjaouadi/web-security-scanner
